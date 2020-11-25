@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AburraBot/static/css/main.017c51a7.chunk.css",
+    "main.js": "/AburraBot/static/js/main.10c2ac01.chunk.js",
+    "main.js.map": "/AburraBot/static/js/main.10c2ac01.chunk.js.map",
+    "runtime-main.js": "/AburraBot/static/js/runtime-main.cf0dbb85.js",
+    "runtime-main.js.map": "/AburraBot/static/js/runtime-main.cf0dbb85.js.map",
+    "static/js/2.af358db9.chunk.js": "/AburraBot/static/js/2.af358db9.chunk.js",
+    "static/js/2.af358db9.chunk.js.map": "/AburraBot/static/js/2.af358db9.chunk.js.map",
+    "static/js/3.599be051.chunk.js": "/AburraBot/static/js/3.599be051.chunk.js",
+    "static/js/3.599be051.chunk.js.map": "/AburraBot/static/js/3.599be051.chunk.js.map",
+    "index.html": "/AburraBot/index.html",
+    "static/css/main.017c51a7.chunk.css.map": "/AburraBot/static/css/main.017c51a7.chunk.css.map",
+    "static/js/2.af358db9.chunk.js.LICENSE.txt": "/AburraBot/static/js/2.af358db9.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/AburraBot/static/media/logo.2d27ead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf0dbb85.js",
+    "static/js/2.af358db9.chunk.js",
+    "static/css/main.017c51a7.chunk.css",
+    "static/js/main.10c2ac01.chunk.js"
+  ]
+}
